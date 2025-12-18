@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
+![Screenshot%20from%202025-12-17%2020-41-07.png](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
 
 
 ### Definition lists can be used with HTML syntax.
