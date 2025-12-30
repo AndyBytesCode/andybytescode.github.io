@@ -94,11 +94,15 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
 
 ### Large image
 
-![Screenshot%20from%202025-12-17%2020-41-07](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
+![Screenshot%20from%202025-12-17%2020-41-07c d/home/andynull/Documents/FREETUBE
+./freetube.AppImage
+](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
+
+
 
 
 ### Definition lists can be used with HTML syntax.
