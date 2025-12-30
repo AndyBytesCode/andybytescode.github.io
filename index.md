@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
+![Gaagle](https://github.com/AndyBytesCode/andybytescode.github.io/blob/main/Images/Gaagle/Screenshot%20from%202025-12-17%2020-41-07.png)
 
 ### Large image
 
